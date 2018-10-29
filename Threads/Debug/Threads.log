@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+d:\susu\7 семестр\основы параллельного программирования\c++\threads\threads\source1.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Threads.vcxproj -> D:\SUSU\7 семестр\Основы параллельного программирования\C++\Threads\Debug\Threads.exe
+  Threads.vcxproj -> D:\SUSU\7 семестр\Основы параллельного программирования\C++\Threads\Debug\Threads.pdb (Full PDB)
